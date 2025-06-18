@@ -3,12 +3,16 @@ My Project that is about E-Commerce website as part of portfolio for Computer Sc
 
 HTML, CSS, JavaScript and will be added further once full construction is ongoing.
 
-# Current Updates: June 10, 2025
+# Update: June 10, 2025
  -- Added 2 HTML files
  -- Added 2 JS files
  -- Added CSS
  -- Added images and logos
 
+# Update: June 18, 2025
+ --Added login.html, authentication.js, loginAndRegister.css
+ --MongoDB construction ongoing
+ 
 # Next update:
  -- Added few more files
- -- Database Construction to Start
+ -- Create sample test for login and registration connectivity to ensure Front-end and Back-end connection is working.
